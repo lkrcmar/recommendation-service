@@ -8,3 +8,4 @@ timestamp,symbol,price\
 
 Provided crypto investment statistics are documented in swagger http://localhost:8080/swagger-ui/index.html.
 
+Recommendation service is containerized.
